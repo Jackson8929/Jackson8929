@@ -1,16 +1,20 @@
-## Hi there 👋
+# Howdy there, my name is jackson. 👋
+Developer and Eager learner
 
-<!--
-**Jackson8929/Jackson8929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Im currently working on finishing schooling.
+- I am interested in fullstack development.
+- I say I hate JavaScript, but I secretly like it.
 
-Here are some ideas to get you started:
+## 🛠️ Langagues 
+I currently am learning and using:
+- JavaScript
+- Java
+- C#
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: Kolenosky8929@saskpolytech.ca
+
+## Tools I've used
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40"/>
