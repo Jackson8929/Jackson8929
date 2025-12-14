@@ -13,6 +13,14 @@ I currently am learning and using:
 - C#
 - SQL
 
+## Things I made
+I haven't had a whole lot of time for personal projects, but I have worked On them in school.
+
+### scbscn-assess
+- A application in development for giving nursing students a interactive way to access each other.
+- Promotes learning through digital quizzes
+- App is closed source, but I am happy to talk about it.
+
 ## Tools I've used
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40"/>
