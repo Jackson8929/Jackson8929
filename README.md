@@ -22,7 +22,7 @@ I haven't had a whole lot of time for personal projects, but I have worked On th
 - App is closed source, but I am happy to talk about it.
 
 ## Examples of my code
-- [1st year programming class assignments]((https://github.com/Jackson8929/first_year_programming_examples))
+[1st Year Programming Assignments](https://github.com/Jackson8929/first_year_programming_examples)
 
 ## Tools I've used
 <p align="left">
